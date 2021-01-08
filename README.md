@@ -7,7 +7,8 @@ This is a Cricket Quiz Game on Google assistant created by using Google Sheets a
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <br>
-### Description
+
+## Description
 
 <code>Captain Cricket Quiz is a Cricket Quiz game with four questions in the game. Each question has three options in which one option is correct and the other two are incorrect... After giving each answer a good explanation of the answer is displayed...</code>
 <br>
